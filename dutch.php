@@ -83,4 +83,5 @@ $_lang["contact.message.sent"] = "Bedankt dat u contact met ons heeft opgenomen,
 $_lang["topic"] = "Onderwerp";
 $_lang["contact.message.too.short"] = "Bericht is te kort. Dient minimaal 10 karakters te bevatten.";
 $_lang["contact.topic.too.short"] = "Onderwerp is te kort. Dient minimaal 10 karakters te bevatten.";
+$_lang["invalid.mail.forgot.password"] = "We zijn niet in staat om een account te vinden met dit mailadres.";
 $_lang["error.cannot.fetch.steam.api"] = "Uw steam profieldata kan op dit moment niet uitgelezen worden, probeer later nogmaals.";
